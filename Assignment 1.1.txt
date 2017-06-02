@@ -1,0 +1,5 @@
+Q Why Java known to be a Platform Independent language ?
+Ans.
+Java is known as platform independent because it converts byte code into machine understanding language.
+It is done through JVM ( Java virtual machine ) which gives java runtime enviorment to the user.
+JVM enables to run any compiled code on any platform.
